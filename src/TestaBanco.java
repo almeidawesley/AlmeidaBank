@@ -9,7 +9,7 @@ public class TestaBanco {
         Conta conta = new Conta();
         conta.deposita(5000);
 
-        conta.titular = wesley;
+       // conta.titular = wesley;
 
         System.out.println(conta.titular.nome);
         
