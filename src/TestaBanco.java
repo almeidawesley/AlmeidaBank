@@ -6,7 +6,7 @@ public class TestaBanco {
         wesley.cpf = "123456789";
         wesley.profissao = "Dev RPA";
         
-        Conta conta = new Conta();
+        Conta conta = new Conta(122,889);
         conta.deposita(5000);
 
        // conta.titular = wesley;
