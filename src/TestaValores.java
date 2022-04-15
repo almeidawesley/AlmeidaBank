@@ -5,6 +5,6 @@ public class TestaValores {
         System.out.println(conta.getAgencia());
        
         conta.setAgencia(123);
-        System.out.println(Conta.getTotal());
+        System.out.println("Total:" + Conta.getTotal());
     }
 }
