@@ -1,9 +1,9 @@
 public class CriaConta {
     public static void main(String[] args) {
-       Conta FirstAccount = new Conta(122,345);
+       Conta FirstAccount = new Conta(123,345);
         FirstAccount.deposita(200);
 
-       Conta SecondAccount = new Conta(122,999);
+       Conta SecondAccount = new Conta(123,999);
        SecondAccount.deposita(2555); 
     }
 }

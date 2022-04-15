@@ -1,5 +1,3 @@
-import java.lang.reflect.Constructor;
-
 public class Conta {
 
     private double saldo;
@@ -7,7 +5,7 @@ public class Conta {
     private int numero;
     private Cliente titular;
     
-    //Construtor
+    //Construtor 
     public Conta(int agencia, int numero){
 
         this.agencia = agencia;
