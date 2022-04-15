@@ -3,7 +3,7 @@ public class Conta {
     private double saldo;
     private int agencia;
     private int numero;
-    private Cliente titular;
+    Cliente titular;
     
     //Construtor 
     public Conta(int agencia, int numero){
