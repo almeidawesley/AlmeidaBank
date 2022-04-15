@@ -11,7 +11,7 @@ public class TestaBanco {
 
        // conta.titular = wesley;
 
-        System.out.println(conta.titular.nome);
+      //  System.out.println(conta.titular.nome);
         
     }
 }
